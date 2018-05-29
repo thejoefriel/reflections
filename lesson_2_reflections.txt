@@ -9,7 +9,7 @@ Note: it does not do any commits straight away. You have to choose which files t
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-
+The staging area is the middle ground between the working directory and the repository. It enables you to choose which files to begin tracking through the repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
