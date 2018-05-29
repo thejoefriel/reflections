@@ -29,6 +29,9 @@ If you’re adding a different version of your project (e.g. an Italian version)
 
 How do the diagrams help you visualize the branch structure?
 
+They let you understand which commits belong with which branches, so you know when changes have diverged (e.g. a bug fix on one branch will not fix the bug on the other if the branches were committed before). 
+Also, they let you fully understand which commits might be unreachable 
+
 
 
 What is the result of merging two branches together? Why do we represent it in
