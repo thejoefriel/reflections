@@ -37,6 +37,8 @@ Also, they let you fully understand which commits might be unreachable
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+This makes one new branch (or keep it as master if merging into master) combining their commit history and code. We represent it in the way we do so you can see clearly when the commits are on separate branches or together. 
+
 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
