@@ -23,6 +23,8 @@ You can choose which file to add to the staging area using GIT ADD. This means i
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+If you’re adding a different version of your project (e.g. an Italian version) or you want to create an experimental version
+
 
 
 How do the diagrams help you visualize the branch structure?
