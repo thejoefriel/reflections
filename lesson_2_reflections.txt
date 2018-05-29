@@ -43,3 +43,7 @@ This makes one new branch (or keep it as master if merging into master) combinin
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Pros
+Makes it a lot easier to combine lots of lines of code without having to do it manually. Puts together the commit history of both branches so you can still view all changes. 
+Will point out if there are conflicts that need to be resolved
