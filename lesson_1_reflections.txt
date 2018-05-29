@@ -1,0 +1,52 @@
+Comparing two different files = diff -u <file1> <file2>
+
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Through + - symbols, shows you what has been removed clearly assigned
+    to each file
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It means you can quickly spot errors by seeing what has been changed since
+    it was last working correctly
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Cons:
+      - you may forget to do it for ages meaning more changes have been made
+
+    Pros:
+      - you don't have loads of versions to track back through which would be
+      just as time consuming when needing to make revisions
+      - Google docs history isn't available offline
+      Google docs can't use any editor
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    In Git you're most likely working on multiple files for one website/program
+    whereas in Google Docs each file is its own entity
+    A multi-file commit lets you commit the changes of the file at the same time 
+    so you can then more easily see what changes have been made 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log lets you see the history of commits within the repo
+    Git diff lets you compare two commits (so an old and a new) to see what has
+    been deleted and added between the git commit IDs
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because you have a safety net that you can quickly resort to if it goes
+    wrong. To do this use git log and then git checkout with the ID of the 
+    commit you want to revert to
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Not sure yet!
