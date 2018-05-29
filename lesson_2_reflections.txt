@@ -11,8 +11,12 @@ What value do you think it offers?
 
 The staging area is the middle ground between the working directory and the repository. It enables you to choose which files to begin tracking through the repository.
 
+
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+You can choose which file to add to the staging area using GIT ADD. This means if you’ve made changes to multiple files but actually only want to commit one as it’s the only one for that specific logical change you wish to note, then you can ensure you only commit that file. 
 
 
 
