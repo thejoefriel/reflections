@@ -2,7 +2,7 @@ What happens when you initialise a repository? Why do you need to do it?
 
 When you initialise a repository it adds a .git folder/file to your folder. This will then enable you to commit changes to files within that folder from that point on. 
 
-Note: it does not do any commits straight away. You have to choose which files to commit and so on. 
+Note: it does not do any commits straight away. You have to choose which files to commit and so on. This is so you can choose which files. 
 
 
 
