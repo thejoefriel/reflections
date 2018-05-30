@@ -31,3 +31,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 You would need to create different folders with names of alternate branches, and keep copying between them, making a note on a separate file whenever a change has been committed. You could then zip this up and share with people, asking them to follow the same system. 
 However, it would be very hard to ensure every change is fully tracked and to find mistakes when things go wrong. Plus you would need to save multiple file names which will become confusing and hard to keep track of. 
+
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You want to make changes in a separate branch when you are working on a feature that might not yet be ready to commit to the master. So if you’re collaborating, it makes sense to work on a separate branch so you can share this with them to make sure they’re happy before finally confirming a pull request to merge into the master branch. 
+Make changes to the master branch is good when you are working solo or fixing something that is not related to any of the other branches or any other features people are working on. 
