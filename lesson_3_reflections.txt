@@ -13,6 +13,14 @@ It's easier to clearly see what is local to your computer and what is online.
 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
 Branches - this is within the same workspace where you want to create an alternative version to the master branch
 Clones - you can clone a repo (either from online or locally) which will let you then have that repo on your local computer to edit
 Forks - essentially cloning but through GitHub which also ensures attribution remains with the original creator of the repo
+
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It means you can compare your data to see what changes have been made before committing to a merge with your local master branch.
+You can get the latest state of a project and then work offline.
