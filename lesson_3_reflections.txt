@@ -24,3 +24,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It means you can compare your data to see what changes have been made before committing to a merge with your local master branch.
 You can get the latest state of a project and then work offline.
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You would need to create different folders with names of alternate branches, and keep copying between them, making a note on a separate file whenever a change has been committed. You could then zip this up and share with people, asking them to follow the same system. 
+However, it would be very hard to ensure every change is fully tracked and to find mistakes when things go wrong. Plus you would need to save multiple file names which will become confusing and hard to keep track of. 
